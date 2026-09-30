@@ -75,7 +75,7 @@ Python for Data Analysis
 Machine Learning
 Statistics for Data Science
 📫 Connect With Me
-💼 LinkedIn: [saikiran](https://www.linkedin.com/in/sai-kiran-patnala-8ab0922b2}{LinkedIn})
+💼 LinkedIn:[ [saikiran](https://www.linkedin.com/in/sai-kiran-patnala-8ab0922b2}{LinkedIn})](https://www.linkedin.com/in/sai-kiran-patnala-8ab0922b2}{LinkedIn})
 💻 GitHub: [saikiran](https://github.com/saikiran4540)
 
 ⭐ Thanks for visiting my profile!
